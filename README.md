@@ -70,4 +70,3 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Benjamin Kovacevic**
 He is a cyber-security enthusiast with hands-on experience with Microsoft XDR and SIEM platforms. Currently working with Microsoft Sentinel as a Product Manager, he is focusing on the SOAR component of the solution and working on new capabilities that will help SOCs improve their investigation and response. Benjamin is constantly working to improve his knowledge about cyber-security, as well as to share knowledge about Microsoft SOAR. He is the author of Microsoft Sentinel Automation training, as well as blog posts around tips and tricks to jump-start with Microsoft Sentinel Automation.
-Benjamin is originally from Bosnia and Herzegovina but currently resides in Ireland with his wife and son.

@@ -1,3 +1,6 @@
+
+<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/image.jpeg)](https://www.packtpub.com/)</p></b>Get this book on sale at [Packt](https://www.packtpub.com/).
+
 # Security Orchestration, Automation, and Response for Security Analysts
 
 <a href="https://www.packtpub.com/product/Security-Orchestration-Automation-and-Response-for-Security-Analysts/9781803242910"><img src="https://m.media-amazon.com/images/I/41TMVPSVEzL.jpg" alt="Book Name" height="256px" align="right"></a>
